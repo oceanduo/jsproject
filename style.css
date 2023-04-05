@@ -1,0 +1,23 @@
+.time{
+    width: 50%;
+    height: 60px;
+    margin:0px auto;
+    line-height: 60px;
+    text-align: center;
+    color: rgb(52, 22, 22);}
+    
+/* background: radial-gradient(circle, rgba(241,140,140,0.5620842086834734) 26%, rgba(245,237,239,0.6769301470588236) 100%);
+border-radius: 20px;
+} */
+
+
+#num_text{font-size: 15rem;
+color: #493644;
+
+
+
+.container{margin-top: 20px;}
+
+img{border-radius: 10px;}
+
+.last{padding-bottom: 30px;}

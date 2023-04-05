@@ -1,0 +1,76 @@
+body {
+  text-align: center;
+  background-color: #092d52;
+}
+
+#level-title1 {
+
+  font-size: 2rem;
+  font-weight: 300;
+  margin:  2%;
+  color: #fdfcf8;
+}
+
+#level-title2 {
+  font-size: 1rem;
+  margin:  2%;
+  color: #e0dfda;
+}
+
+/*
+
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+
+}
+
+*/
+.game .btn {
+  margin: 10px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 10px solid black;
+  border-radius: 20%;
+}
+
+
+
+.footer {
+  font-family: 'Press Start 2P', cursive;
+  font-size: .25rem;
+  margin:  3%;
+  color: #FEF2BF;
+}
+
+.game-over {
+  background-color: pink;
+  opacity: 0.8;
+}
+
+.red {
+  background: rgb(218,23,23);
+  background: radial-gradient(circle, rgba(218,23,23,1) 0%, rgba(209,157,157,0.7833727240896359) 100%);
+}
+
+.green {
+  background: rgb(19,207,23);
+  background: radial-gradient(circle, rgba(19,207,23,1) 0%, rgba(157,209,164,0.7833727240896359) 100%);
+}
+
+.blue {
+  background: rgb(101,126,219);
+  background: radial-gradient(circle, rgba(101,126,219,1) 0%, rgba(169,193,221,1) 100%);;
+}
+
+.yellow {
+ background: rgb(250,247,66);
+  background: radial-gradient(circle, rgba(250,247,66,1) 0%, rgba(217,221,169,0.7833727240896359) 100%);
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
